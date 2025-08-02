@@ -1,11 +1,12 @@
 # 👋 Hi, I’m @vinaysingh
 
-- 👀 I’m interested in web development, DevOps, and cloud technologies.
-- 🌱 I’m currently learning React, Docker, and Kubernetes.
-- 💞️ I’m looking to collaborate on open-source projects and innovative startups.
-- 📫 How to reach me: vinaysingh1538@gmail.com or [LinkedIn](https://www.linkedin.com/in/vinaysingh)
+- 👨‍💻 I’m a DevOps enthusiast with hands-on experience in tools like Git, Jenkins, Docker, Kubernetes, Terraform, Ansible, Prometheus, Grafana, and AWS.
+- ☁️ Passionate about cloud-native technologies, automation, and scalable infrastructure.
+- 🌱 Currently exploring React for frontend basics and sharpening my container orchestration skills.
+- 💡 Open to collaborate on open-source DevOps projects, cloud-native tools, and innovative startup ideas.
+- 📫 Reach me at: vinaysingh1538@gmail.com or [LinkedIn](https://www.linkedin.com/in/vinaysingh)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving puzzles and exploring new tech trends!
+- ⚡ Fun fact: I enjoy debugging infrastructure issues and turning complex setups into simple pipelines.
 
 <!---
 vinaysingh777/vinaysingh777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
