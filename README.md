@@ -4,7 +4,7 @@
 - ☁️ Passionate about cloud-native technologies, automation, and scalable infrastructure.
 - 🌱 Currently exploring React for frontend basics and sharpening my container orchestration skills.
 - 💡 Open to collaborate on open-source DevOps projects, cloud-native tools, and innovative startup ideas.
-- 📫 Reach me at: vinaysingh1538@gmail.com or [LinkedIn](https://www.linkedin.com/in/vinaysingh777)
+- 📫 Reach me at: vinaysingh1538@gmail.com or [LinkedIn](https://www.linkedin.com/in/vinay-singh-437913235/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy debugging infrastructure issues and turning complex setups into simple pipelines.
 
